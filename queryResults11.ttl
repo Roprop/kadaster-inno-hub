@@ -1,0 +1,142 @@
+@prefix bag: <http://bag.basisregistraties.overheid.nl/def/bag#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098149>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 15, 701;
+  bag:huisnummertoevoeging "A1";
+  bag:identificatiecode "0200200000098149";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098150>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 17, 701;
+  bag:huisnummertoevoeging "A2";
+  bag:identificatiecode "0200200000098150";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098151>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 19, 701;
+  bag:huisnummertoevoeging "A3";
+  bag:identificatiecode "0200200000098151";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098152>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 21, 701;
+  bag:huisnummertoevoeging "A4";
+  bag:identificatiecode "0200200000098152";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098153>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 23, 701;
+  bag:huisnummertoevoeging "A5";
+  bag:identificatiecode "0200200000098153";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098154>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 25, 701;
+  bag:huisnummertoevoeging "A6";
+  bag:identificatiecode "0200200000098154";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098155>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 27, 701;
+  bag:huisnummertoevoeging "A7";
+  bag:identificatiecode "0200200000098155";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098156>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 29, 701;
+  bag:huisnummertoevoeging "A8";
+  bag:identificatiecode "0200200000098156";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098157>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 31, 701;
+  bag:huisnummertoevoeging "A9";
+  bag:identificatiecode "0200200000098157";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098158>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 33, 701;
+  bag:huisnummertoevoeging "A10";
+  bag:identificatiecode "0200200000098158";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098159>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 35, 701;
+  bag:huisnummertoevoeging "A11";
+  bag:identificatiecode "0200200000098159";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098160>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 37, 701;
+  bag:huisnummertoevoeging "A12";
+  bag:identificatiecode "0200200000098160";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098161>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 39, 701;
+  bag:huisnummertoevoeging "A13";
+  bag:identificatiecode "0200200000098161";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098162>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 41, 701;
+  bag:huisnummertoevoeging "A14";
+  bag:identificatiecode "0200200000098162";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098163>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 43, 701;
+  bag:huisnummertoevoeging "A15";
+  bag:identificatiecode "0200200000098163";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098164>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisnummer 45, 701;
+  bag:huisnummertoevoeging "A16";
+  bag:identificatiecode "0200200000098164";
+  bag:postcode "7334DR";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000103551>
+  bag:bijbehorendeOpenbareRuimte <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>;
+  bag:huisletter "A";
+  bag:huisnummer 30;
+  bag:identificatiecode "0200200000103551";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven> .

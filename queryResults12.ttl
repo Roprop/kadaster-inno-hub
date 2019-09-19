@@ -1,0 +1,161 @@
+@prefix bag: <http://bag.basisregistraties.overheid.nl/def/bag#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923183>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098149>;
+  bag:oppervlakte 145, 152;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/6EAE2EE049E785AC1203095ADC08EE14> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/6EAE2EE049E785AC1203095ADC08EE14>
+  geo:asWKT "POINT (5.959038603 52.179777991)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923185>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098150>;
+  bag:oppervlakte 144;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/9007F2F1B762F377ECD12F12740F0E4D> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/9007F2F1B762F377ECD12F12740F0E4D>
+  geo:asWKT "POINT (5.959043426 52.179835932)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923187>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098151>;
+  bag:oppervlakte 135;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/F75ACD8796414EBDABAF04C30C1A6F9E> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/F75ACD8796414EBDABAF04C30C1A6F9E>
+  geo:asWKT "POINT (5.959043954 52.179971775)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923189>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098152>;
+  bag:oppervlakte 120, 132;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/CAB669890CC7021F8370B5A00FB1291E> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/CAB669890CC7021F8370B5A00FB1291E>
+  geo:asWKT "POINT (5.959045309 52.180022668)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923191>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098153>;
+  bag:oppervlakte 120;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/A2C046613C68072534CF29C1E1025D85> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/A2C046613C68072534CF29C1E1025D85>
+  geo:asWKT "POINT (5.959046648 52.180071197)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923193>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098154>;
+  bag:oppervlakte 144;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/DD6308FC78649880747AB7E231C477FE> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/DD6308FC78649880747AB7E231C477FE>
+  geo:asWKT "POINT (5.959051444 52.180124797)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923195>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098155>;
+  bag:oppervlakte 145, 152;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/B15BF3A25DE35EC00E84B1B9945AF2B1> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/B15BF3A25DE35EC00E84B1B9945AF2B1>
+  geo:asWKT "POINT (5.959047690 52.180263015)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923197>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098156>;
+  bag:oppervlakte 120, 127;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/D812F78F84FAE3CC2D25224252D57596> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/D812F78F84FAE3CC2D25224252D57596>
+  geo:asWKT "POINT (5.959042994 52.180315259)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923199>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098157>;
+  bag:oppervlakte 120, 132;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/005E8A4CD219025EA2E232BD2C336ECC> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/005E8A4CD219025EA2E232BD2C336ECC>
+  geo:asWKT "POINT (5.959045775 52.180364437)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923201>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098158>;
+  bag:oppervlakte 120, 126;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/3C894CFA29E453A7B1746698315EC301> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/3C894CFA29E453A7B1746698315EC301>
+  geo:asWKT "POINT (5.959046386 52.180412089)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923203>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098159>;
+  bag:oppervlakte 120, 126;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/0172C03006281806F2F4042881F41F0F> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/0172C03006281806F2F4042881F41F0F>
+  geo:asWKT "POINT (5.959047356 52.180460404)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923205>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098160>;
+  bag:oppervlakte 120;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/63EDFE82DEABBE5691C8E96D80CA652E> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/63EDFE82DEABBE5691C8E96D80CA652E>
+  geo:asWKT "POINT (5.959051926 52.180510014)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923207>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098161>;
+  bag:oppervlakte 144, 168;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/AAA1B607171AF246E4FAB6E916B62712> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/AAA1B607171AF246E4FAB6E916B62712>
+  geo:asWKT "POINT (5.959058114 52.180562735)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923209>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098162>;
+  bag:oppervlakte 144, 190;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/5660C8BAB38A8C76F4CA61A1C07850E7> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/5660C8BAB38A8C76F4CA61A1C07850E7>
+  geo:asWKT "POINT (5.959057259 52.180690954)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923211>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098163>;
+  bag:oppervlakte 145, 196;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/92F1433B9C601759628557C4F75F8F52> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/92F1433B9C601759628557C4F75F8F52>
+  geo:asWKT "POINT (5.959046426 52.180749195)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923213>
+  a bag:Verblijfsobject, bag:VerblijfsobjectWoonfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000098164>;
+  bag:oppervlakte 173, 197;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/98FF98F73FED80BE80A95BF7459FA413> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/98FF98F73FED80BE80A95BF7459FA413>
+  geo:asWKT "POINT (5.959056661 52.180913358)"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003931805>
+  a bag:Verblijfsobject, bag:VerblijfsobjectOverigeGebruiksfunctie, geo:Feature;
+  bag:hoofdadres <http://bag.basisregistraties.overheid.nl/bag/id/nummeraanduiding/0200200000103551>;
+  bag:oppervlakte 34;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/0AEF4827DBE02CF85C244C426DA3B05B> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/0AEF4827DBE02CF85C244C426DA3B05B>
+  geo:asWKT "POINT (5.960116384 52.180286163)"^^geo:wktLiteral .

@@ -1,0 +1,276 @@
+@prefix bag: <http://bag.basisregistraties.overheid.nl/def/bag#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923183>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923182> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923182> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923182";
+  bag:oorspronkelijkBouwjaar 2018, 2019;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/14138DD9BF3B217FA6A9F3933B9325EF>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/2CEBE91DE15C2BC7A7A76D834F5F80CC> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/2CEBE91DE15C2BC7A7A76D834F5F80CC>
+  geo:asWKT "POLYGON ((5.959097273 52.179804995,5.958957797 52.179805671,5.958957109 52.179752051,5.959023660 52.179751729,5.959023490 52.179738481,5.959096415 52.179738128,5.959097273 52.179804995))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/14138DD9BF3B217FA6A9F3933B9325EF>
+  geo:asWKT "POLYGON ((5.959102616 52.179786112,5.959102642 52.179800717,5.959102660 52.179806703,5.958945417 52.179807115,5.958945254 52.179757906,5.958917152 52.179757916,5.958916870 52.179714272,5.959018104 52.179708442,5.959018613 52.179753785,5.959033365 52.179753767,5.959033221 52.179740250,5.959102493 52.179740058,5.959102616 52.179786112))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923185>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923184> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923184> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923184";
+  bag:oorspronkelijkBouwjaar 2018, 2019;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/50F25C599678CCC1449665D96777171C>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/52B05BADD3B2A988E82B64D272409BC6> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/50F25C599678CCC1449665D96777171C>
+  geo:asWKT "POLYGON ((5.959097273 52.179804995,5.959097495 52.179822341,5.959119220 52.179822235,5.959119717 52.179860972,5.958958516 52.179861753,5.958957797 52.179805671,5.959097273 52.179804995))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/52B05BADD3B2A988E82B64D272409BC6>
+  geo:asWKT "POLYGON ((5.959077460 52.179863028,5.959059711 52.179863087,5.959059720 52.179866071,5.959056372 52.179866078,5.959018958 52.179866161,5.959019186 52.179914776,5.958918041 52.179915032,5.958917741 52.179859694,5.958963225 52.179859501,5.958962977 52.179809403,5.958945418 52.179809479,5.958945417 52.179807115,5.959102660 52.179806703,5.959102710 52.179824266,5.959124802 52.179824195,5.959124991 52.179862870,5.959077460 52.179863028))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923187>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923186> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923186> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923186";
+  bag:oorspronkelijkBouwjaar 2018, 2019;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/076C305DFA42D20DB50BB3694C3E26C8>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/4E5A588E677D34EF3B8C85E76F11BE59> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/4E5A588E677D34EF3B8C85E76F11BE59>
+  geo:asWKT "POLYGON ((5.959099745 52.179997696,5.958960268 52.179998372,5.958959646 52.179949839,5.959029749 52.179949500,5.959029514 52.179931165,5.959098887 52.179930829,5.959099745 52.179997696))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/076C305DFA42D20DB50BB3694C3E26C8>
+  geo:asWKT "POLYGON ((5.959103672 52.179980141,5.959103746 52.179995025,5.959103791 52.180000840,5.958929353 52.180001272,5.958929340 52.179999151,5.958964327 52.179999062,5.958964012 52.179951697,5.958918236 52.179951838,5.958918041 52.179915032,5.959019186 52.179914776,5.959019332 52.179947788,5.959034201 52.179947770,5.959034129 52.179934172,5.959103402 52.179934061,5.959103672 52.179980141))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923189>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923188> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923188> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923188";
+  bag:oorspronkelijkBouwjaar 2018, 2019;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/6F1A4E9F97F7605B3611970284B743C6>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/E122462BC27C6617411CB7135D177EA1> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/E122462BC27C6617411CB7135D177EA1>
+  geo:asWKT "POLYGON ((5.959100367 52.180046229,5.958960891 52.180046904,5.958960268 52.179998372,5.959099745 52.179997696,5.959100367 52.180046229))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/6F1A4E9F97F7605B3611970284B743C6>
+  geo:asWKT "POLYGON ((5.959103828 52.180007141,5.959103901 52.180021917,5.959104063 52.180049375,5.958929683 52.180049806,5.958929353 52.180001272,5.959103791 52.180000840,5.959103828 52.180007141))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923191>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923190> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923190> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923190";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/83869F96075E36EDFEC3C725F0670802>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/ACD258FD6182D7B2D8686CC40E78D8FF> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/ACD258FD6182D7B2D8686CC40E78D8FF>
+  geo:asWKT "POLYGON ((5.959100367 52.180046229,5.959100990 52.180094761,5.958961513 52.180095437,5.958960891 52.180046904,5.959100367 52.180046229))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/83869F96075E36EDFEC3C725F0670802>
+  geo:asWKT "POLYGON ((5.959104063 52.180049375,5.959104218 52.180077426,5.959104305 52.180092192,5.959104335 52.180097909,5.958965000 52.180098251,5.958964685 52.180052009,5.958929698 52.180052098,5.958929683 52.180049806,5.959104063 52.180049375))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923193>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923192> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923192> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923192";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/0F32FCB1CEF506E4B112033FDC99D62A>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/FB80BAFF30CB7359972EA926B0CAA1FA> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/0F32FCB1CEF506E4B112033FDC99D62A>
+  geo:asWKT "POLYGON ((5.959100990 52.180094761,5.959101218 52.180112583,5.959123002 52.180112478,5.959123493 52.180150738,5.958962233 52.180151519,5.958961513 52.180095437,5.959100990 52.180094761))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/FB80BAFF30CB7359972EA926B0CAA1FA>
+  geo:asWKT "POLYGON ((5.959079528 52.180154213,5.959061033 52.180154276,5.959061058 52.180157314,5.959058499 52.180157317,5.959017853 52.180157352,5.959017844 52.180154351,5.958965384 52.180154452,5.958965000 52.180098251,5.959104335 52.180097909,5.959104442 52.180115399,5.959126547 52.180115274,5.959126753 52.180154083,5.959079528 52.180154213))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923195>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923194> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923194> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923194";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/DDEBF50679B16D18329FC61CA6451D94>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/F8AD2421B8D6C532F9726BB1E9217AAA> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/F8AD2421B8D6C532F9726BB1E9217AAA>
+  geo:asWKT "POLYGON ((5.958964007 52.180289837,5.958963384 52.180241304,5.959033488 52.180240965,5.959033253 52.180222630,5.959102626 52.180222294,5.959103484 52.180289161,5.958964007 52.180289837))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/DDEBF50679B16D18329FC61CA6451D94>
+  geo:asWKT "POLYGON ((5.959105675 52.180269610,5.959105774 52.180284180,5.959105809 52.180290381,5.958948593 52.180290765,5.958948389 52.180237224,5.959036436 52.180237085,5.959036378 52.180223478,5.959105375 52.180223431,5.959105675 52.180269610))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923197>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923196> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923196> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923196";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/227304F9A581A2DC98A6C93F02D3E3A3>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/FF50F7343CDC2C3CF310257B76E03F00> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/227304F9A581A2DC98A6C93F02D3E3A3>
+  geo:asWKT "POLYGON ((5.958964629 52.180338369,5.958964007 52.180289837,5.959103484 52.180289161,5.959104106 52.180337694,5.958964629 52.180338369))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/FF50F7343CDC2C3CF310257B76E03F00>
+  geo:asWKT "POLYGON ((5.959105809 52.180290381,5.959105845 52.180296574,5.959105945 52.180311170,5.959106125 52.180338951,5.958931247 52.180339385,5.958931219 52.180337156,5.958948777 52.180337044,5.958948593 52.180290765,5.959105809 52.180290381))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923199>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923198> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923198> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923198";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/AC8EDD790F5E9FBE0E6006545165A44D>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/B23B4CF62E94F210D5908805B3205EB4> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/B23B4CF62E94F210D5908805B3205EB4>
+  geo:asWKT "POLYGON ((5.959104106 52.180337694,5.959104729 52.180386226,5.958965251 52.180386902,5.958964629 52.180338369,5.959104106 52.180337694))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/AC8EDD790F5E9FBE0E6006545165A44D>
+  geo:asWKT "POLYGON ((5.959106442 52.180387530,5.958931709 52.180387963,5.958931247 52.180339385,5.959106125 52.180338951,5.959106307 52.180366741,5.959106406 52.180381337,5.959106442 52.180387530))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923201>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923200> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923200> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923200";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/66878C8CAC02B2871C5BFBB93778FBEC>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/E592E2498B7F541868E3AD16C28BE05C> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/66878C8CAC02B2871C5BFBB93778FBEC>
+  geo:asWKT "POLYGON ((5.959105351 52.180434759,5.958965874 52.180435434,5.958965251 52.180386902,5.959104729 52.180386226,5.959105351 52.180434759))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/E592E2498B7F541868E3AD16C28BE05C>
+  geo:asWKT "POLYGON ((5.958931709 52.180387963,5.959106442 52.180387530,5.959106492 52.180393723,5.959106577 52.180408337,5.959106757 52.180436046,5.958949584 52.180436439,5.958949207 52.180389928,5.958931736 52.180390012,5.958931709 52.180387963))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923203>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923202> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923202> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923202";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/8ECC73294A75E85C8DD7820E90CF97AB>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/AF35F23CACF81825E1E93F2D5D4380D8> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/8ECC73294A75E85C8DD7820E90CF97AB>
+  geo:asWKT "POLYGON ((5.958965874 52.180435434,5.959105351 52.180434759,5.959105974 52.180483291,5.958966496 52.180483967,5.958965874 52.180435434))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/AF35F23CACF81825E1E93F2D5D4380D8>
+  geo:asWKT "POLYGON ((5.958949584 52.180436439,5.959106757 52.180436046,5.959106939 52.180463881,5.959107036 52.180478298,5.959107072 52.180484571,5.958949987 52.180484955,5.958949584 52.180436439))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923205>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923204> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923204> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923204";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/432D7EB9E525817983E5D2C7F15A7E02>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/D1C1526234D6089D4A249E8899D8881C> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/432D7EB9E525817983E5D2C7F15A7E02>
+  geo:asWKT "POLYGON ((5.958966496 52.180483967,5.959105974 52.180483291,5.959106597 52.180531824,5.958967119 52.180532500,5.958966496 52.180483967))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/D1C1526234D6089D4A249E8899D8881C>
+  geo:asWKT "POLYGON ((5.958949987 52.180484955,5.959107072 52.180484571,5.959107124 52.180490836,5.959107221 52.180505234,5.959107388 52.180533105,5.958950376 52.180533488,5.958950347 52.180531287,5.958968052 52.180531138,5.958967601 52.180486892,5.958949999 52.180487040,5.958949987 52.180484955))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923207>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923206> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923206> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923206";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/763BDF8B7EFAE9C637E4601C39DF0455>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/8633966A2E95F9EEB093C2740C0BF2BA> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/763BDF8B7EFAE9C637E4601C39DF0455>
+  geo:asWKT "POLYGON ((5.959106597 52.180531824,5.959106824 52.180549529,5.959128550 52.180549424,5.959129042 52.180587801,5.958967838 52.180588582,5.958967119 52.180532500,5.959106597 52.180531824))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/8633966A2E95F9EEB093C2740C0BF2BA>
+  geo:asWKT "POLYGON ((5.958922822 52.180612735,5.958922595 52.180585925,5.958950884 52.180585689,5.958950376 52.180533488,5.959107388 52.180533105,5.959107509 52.180550497,5.959129220 52.180550373,5.959129761 52.180589172,5.959082259 52.180589322,5.959063968 52.180589374,5.959063991 52.180592304,5.959061067 52.180592309,5.959023681 52.180592365,5.959023881 52.180612479,5.958922822 52.180612735))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923209>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923208> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923208> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923208";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/4941CB658F6143702AE357C58629A939>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/DCC133322BFD63A2C5C1CB21A89FE2FC> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/4941CB658F6143702AE357C58629A939>
+  geo:asWKT "POLYGON ((5.959108989 52.180718306,5.958969511 52.180718981,5.958968791 52.180662899,5.959129995 52.180662118,5.959130492 52.180700854,5.959108766 52.180700960,5.959108989 52.180718306))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/DCC133322BFD63A2C5C1CB21A89FE2FC>
+  geo:asWKT "POLYGON ((5.959061774 52.180661074,5.959064055 52.180661072,5.959064078 52.180664056,5.959083041 52.180663991,5.959130047 52.180663835,5.959130764 52.180702678,5.959108731 52.180702748,5.959108851 52.180720077,5.958951765 52.180720470,5.958951444 52.180668062,5.958923283 52.180668072,5.958922822 52.180612735,5.959023881 52.180612479,5.959024359 52.180661147,5.959061774 52.180661074))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923211>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923210> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923210> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923210";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/8D713B164A35F96761F7336744E40349>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/DC9671A259F952E0AE5723BEC59528A9> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/DC9671A259F952E0AE5723BEC59528A9>
+  geo:asWKT "POLYGON ((5.958969511 52.180718981,5.959108989 52.180718306,5.959109847 52.180785173,5.959036920 52.180785526,5.959036750 52.180772278,5.958970198 52.180772601,5.958969511 52.180718981))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/8D713B164A35F96761F7336744E40349>
+  geo:asWKT "POLYGON ((5.959025649 52.180833577,5.958924502 52.180833833,5.958923947 52.180770012,5.958952063 52.180769920,5.958951765 52.180720470,5.959108851 52.180720077,5.959109283 52.180786838,5.959040244 52.180787065,5.959040171 52.180773376,5.959024951 52.180773423,5.959025649 52.180833577))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003923213>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923212> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003923212> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003923212";
+  bag:oorspronkelijkBouwjaar 2018;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/4A15CB13447140BCBACAA1F6E3840F88>,
+    <http://bag.basisregistraties.overheid.nl/bag/id/geometry/ECC51601836549A001D9400DCD8EBEFA> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/4A15CB13447140BCBACAA1F6E3840F88>
+  geo:asWKT "POLYGON ((5.959102951 52.180953175,5.958982113 52.180953761,5.958981413 52.180899152,5.959005361 52.180899036,5.959004883 52.180861720,5.959126773 52.180861130,5.959127374 52.180907991,5.959112286 52.180908064,5.959112532 52.180927207,5.959102619 52.180927255,5.959102951 52.180953175))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/ECC51601836549A001D9400DCD8EBEFA>
+  geo:asWKT "POLYGON ((5.958924502 52.180833833,5.959025649 52.180833577,5.959026016 52.180864467,5.959122192 52.180864172,5.959122319 52.180909435,5.959107143 52.180909482,5.959106701 52.180928619,5.959098645 52.180928632,5.959098649 52.180930070,5.959098709 52.180942760,5.959098768 52.180954148,5.959056059 52.180954166,5.959056053 52.180953726,5.958979441 52.180953998,5.958978904 52.180904153,5.958990878 52.180904122,5.958990782 52.180901174,5.959003619 52.180901139,5.959003389 52.180868406,5.958924802 52.180868598,5.958924502 52.180833833))"^^geo:wktLiteral .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/verblijfsobject/0200010003931805>
+  bag:pandrelatering <http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003931804> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0200100003931804> a bag:Pand,
+    geo:Feature;
+  bag:identificatiecode "0200100003931804";
+  bag:oorspronkelijkBouwjaar 2019;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/BE64DA566F714310CBD92600DF246DF7> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/geometry/BE64DA566F714310CBD92600DF246DF7>
+  geo:asWKT "POLYGON ((5.960132823 52.180343436,5.960096271 52.180343559,5.960095215 52.180220428,5.960131767 52.180220304,5.960132823 52.180343436))"^^geo:wktLiteral .
