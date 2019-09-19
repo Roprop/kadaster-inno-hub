@@ -1,0 +1,14 @@
+@prefix bag: <http://bag.basisregistraties.overheid.nl/def/bag#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0200300225811160>
+  a bag:OpenbareRuimte, bag:Weg;
+  bag:bijbehorendeWoonplaats <http://bag.basisregistraties.overheid.nl/bag/id/woonplaats/3560>;
+  bag:identificatiecode "0200300225811160";
+  bag:naamOpenbareRuimte "Evert van 't Landstraat";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/NaamgevingUitgegeven>;
+  <http://rdfs.org/ns/void#inDataset> <http://bag.basisregistraties.overheid.nl/id/dataset/bag>;
+  rdfs:isDefinedBy <http://bag.basisregistraties.overheid.nl/bag/doc/2017103100000000/openbare-ruimte/0200300225811160>;
+  rdfs:label "Evert van 't Landstraat"@nl .

@@ -1,0 +1,16 @@
+@prefix bag: <http://bag.basisregistraties.overheid.nl/def/bag#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/woonplaats/3560> a bag:Woonplaats,
+    geo:Feature;
+  bag:geometrieWoonplaats <http://bag.basisregistraties.overheid.nl/bag/id/geometry/08F59CCEEC70FC602039228B9E774A09>;
+  bag:identificatiecode "3560";
+  bag:naamWoonplaats "Apeldoorn";
+  bag:status <http://bag.basisregistraties.overheid.nl/id/begrip/WoonplaatsAangewezen>;
+  <http://rdfs.org/ns/void#inDataset> <http://bag.basisregistraties.overheid.nl/id/dataset/bag>;
+  geo:hasGeometry <http://bag.basisregistraties.overheid.nl/bag/id/geometry/08F59CCEEC70FC602039228B9E774A09>;
+  rdfs:isDefinedBy <http://bag.basisregistraties.overheid.nl/bag/doc/2012061500000000/woonplaats/3560>;
+  rdfs:label "Apeldoorn"@nl .
